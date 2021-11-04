@@ -21,7 +21,7 @@ navbar-links:
   Resources:
     - CV: "cv"
     - Testimonials: "https://www.markdowntutorial.com/"
-    - Past Projects: "https://www.markdowntutorial.com/"
+    - Past Projects: "past-projects"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
