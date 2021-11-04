@@ -1,3 +1,3 @@
-# These are my past projects
+# These are my Testimonials
 
-Insert projects here
+Insert testimonials here
