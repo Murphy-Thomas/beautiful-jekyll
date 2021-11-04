@@ -15,6 +15,7 @@ author: Thomas Murphy
 
 # --- List of links in the navigation bar --- #
 
+# aboutme is a file in main directory, can use for others in this section#
 navbar-links:
   About Me: "aboutme"
   Resources:
