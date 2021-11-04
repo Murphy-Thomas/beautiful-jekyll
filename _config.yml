@@ -19,7 +19,7 @@ author: Thomas Murphy
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - CV: "https://beautifuljekyll.com"
+    - CV: "cv"
     - Testimonials: "https://www.markdowntutorial.com/"
     - Past Projects: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
