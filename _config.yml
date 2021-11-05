@@ -22,7 +22,7 @@ navbar-links:
     - CV: "cv"
     - Testimonials: "testimonials"
     - Past Projects: "past-projects"
-  Blog: "_posts"
+  Blog: "posts"
 
 # --- Logo --- #
 
