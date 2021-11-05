@@ -22,6 +22,7 @@ navbar-links:
     - CV: "cv"
     - Testimonials: "testimonials"
     - Past Projects: "past-projects"
+  Research: ""
   Contact: "contact"
 
 # --- Logo --- #
