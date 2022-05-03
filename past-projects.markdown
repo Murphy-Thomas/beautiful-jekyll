@@ -4,9 +4,10 @@ title: Past Projects
 ---
 
 # Biochemical Exploration of DYNLL1 Protein
-Insert research here  
-[Readable Google Docs Link](https://docs.google.com/document/d/1ZLch1A-04e9ea-lu1S3dpDXFy2jIc1GcJYEHCILYyZo/edit?usp=sharing)
+Insert research here
 
+
+[Readable Google Docs Link](https://docs.google.com/document/d/1ZLch1A-04e9ea-lu1S3dpDXFy2jIc1GcJYEHCILYyZo/edit?usp=sharing)
 <embed src="/assets/img/LC8_article.pdf" width="600" height="600" 
  type="application/pdf">
  
