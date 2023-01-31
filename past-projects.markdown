@@ -7,7 +7,7 @@ title: Past Projects
 Insert research here
 
 
-[Article Download](https://www.tmbio.me/assets/img/LC8_article.pdf)
+[Article Download](https://www.tmbio.me/assets/img/LC8_articles.pdf)
 <embed src="/assets/img/LC8_article.pdf" width="600" height="600" 
  type="application/pdf">
  
