@@ -4,7 +4,12 @@ title: Past Projects
 ---
 
 # Biochemical Exploration of DYNLL1 Protein
-Insert research here
+
+For my senior capstone project, I collaborated with two other students to perform a large biomolecular laboratory experiment. The goal was to apply as many laboratory techniques and methodologies as we had learned throughout our undergraduate studies. We utilized non-canonical amino acid insertion techniques, which allowed us to incorporate novel amino acids into a genetically engineered protein. The protein of interest was Dynein light chain 1 (DYNLL1/LC8), and it was chosen due to its significance in Dynein Complex regulation and cellular transportation.
+
+With lots of lab hours and despite facing numerous technical challenges, we were able to successfully express the new recombinant proteins. The recombinant proteins were examined using a range of biochemical and biophysical assays. In fact, our work marked the first time phosphoserine had ever been expressed on that particular residue of LC8. Our results not only confirmed the expression of the novel amino acid but also challenged previous understandings of the protein's regulation, as suggested by previous studies. These findings were to be followed up and investigated by one of the department’s graduate students and his PI.
+
+This project served as a showcase of our extensive knowledge and comprehension of various laboratory techniques and methodologies. It also highlighted the potential for non-canonical amino acid insertion techniques to provide novel insights into crucial biological systems.
 
 
 [Article Download](https://www.tmbio.me/assets/img/LC8_Articles.pdf)
