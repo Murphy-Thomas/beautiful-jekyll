@@ -1,9 +1,9 @@
 ---
   layout: page
   title: Research
+  subtitle: In Pursuit of Discovery
   cover-img: "/assets/img/NCI_cell.jpg"
 ---
-# Title Here
 
 I've always been captivated by the world of science and the joy of understanding how things work. In college, I initially pursued a degree in zoology, fueled by my childhood fascination with animals and my summer internship at a big cat sanctuary. However, as I took more classes in chemistry and microbiology, my interests started to shift towards molecular biology and genomics. The complexity and intricacy of life at a molecular level completely captured me.
 
