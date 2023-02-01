@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Behind the Scenes: Sharing My Story and Experiences
+cover-img: "/assets/img/river.jpg"
 ---
 
 # My story (so far)
