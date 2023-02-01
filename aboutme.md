@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Behind the Scenes: Sharing My Story and Experiences
+subtitle: Behind the Scenes; Sharing My Story and Experiences
 cover-img: "/assets/img/river.jpg"
 ---
 
