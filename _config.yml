@@ -20,8 +20,8 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - CV: "cv"
-    - Testimonials: "testimonials"
     - Past Projects: "past-projects"
+    - Testimonials: "testimonials"
   Research: "research"
   Contact: "contact"
 
