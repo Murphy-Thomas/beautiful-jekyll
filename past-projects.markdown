@@ -13,7 +13,7 @@ This project served as a showcase of our extensive knowledge and comprehension o
 
 
 [Article Download](https://www.tmbio.me/assets/img/LC8_Articles.pdf)
-<embed src="/assets/img/LC8_Articles.pdf" width="600" height="600" 
+<embed src="/assets/img/LC8_Articles.pdf" width="750" height="750" 
  type="application/pdf">
  
 --- 
@@ -28,7 +28,7 @@ Although my project became larger than anticipated, it allowed me to explore var
 
 
 [Article Download](https://www.tmbio.me/assets/img/RNASeq_article.pdf)
-<embed src="/assets/img/RNASeq_article.pdf" width="600" height="600"
+<embed src="/assets/img/RNASeq_article.pdf" width="750" height="750"
  type="application/pdf">
  
 ---
