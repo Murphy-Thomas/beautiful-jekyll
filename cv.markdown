@@ -5,6 +5,6 @@ subtitle: Highlighting My Skills & Accomplishments
 ---
 
 
-[Article Download](https://www.tmbio.me/assets/img/ThomasMurphy_CV.pdf)
+[Article Download](https://www.tmbio.me/assets/img/Thomas Murphy_CV.pdf)
 <embed src="/assets/img/ThomasMurphy_CV.pdf" width="900" height="900" 
  type="application/pdf">
